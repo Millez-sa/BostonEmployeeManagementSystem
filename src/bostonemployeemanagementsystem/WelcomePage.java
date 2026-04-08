@@ -7,7 +7,7 @@ package bostonemployeemanagementsystem;
 
 /**
  *
- * @author Millez Millenium
+ * @author Millez Faranani Matsa
  */
 public class WelcomePage extends javax.swing.JFrame {
 
