@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Millez Millenium
+ * @author Millez Faranani Matsa
  */
 public class AdminPortal extends javax.swing.JFrame {
 
