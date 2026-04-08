@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Millez Millenium
+ * @author Millez Faranani Matsa
  */
 public class SalaryPortal extends javax.swing.JFrame {
 
